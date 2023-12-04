@@ -1,0 +1,17 @@
+/* Back end*/
+**requests (getall/ add/ getbyid / getbyidAuthor/ delete/ modifier)
+connect with dbmongo 
+upload file (image)
+jwt : jsonwebtoken 
+bcrypt : cyptage de paswword 
+
+/* front end */
+upload image 
+create tags 
+authguard 
+can activate 
+connect with back end
+routing 
+login / registre 
+logout 
+get article byid 
